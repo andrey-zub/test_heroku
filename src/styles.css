@@ -1,0 +1,24 @@
+pp {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+
+.bottom_wrap {
+  display: block;
+  border-bottom: 1px dashed black;
+}
+
+.userprop_wrap {
+  border-top: 1px dashed black;
+}
+
+.card {
+  width: 150px;
+  height: 400x;
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
